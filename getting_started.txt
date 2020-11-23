@@ -1,0 +1,13 @@
+psql -U postgres
+
+password: God1sLove
+
+\l - for list of databases
+
+\c dbname - to connect to said database
+
+
+CREATE DATABASE guru99;
+
+
+psql -U postgres -f build.sql
