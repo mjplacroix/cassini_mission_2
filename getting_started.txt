@@ -1,7 +1,5 @@
 psql -U postgres
 
-password: God1sLove
-
 \l - for list of databases
 
 \c dbname - to connect to said database
