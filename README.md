@@ -9,4 +9,4 @@ It's imported and used to initialize and construct the primary database with [bu
 
 A variety of tables are created with [table_creation](https://github.com/mjplacroix/cassini_mission_2/blob/main/table_creation.sql). 
 
-And a further exploration of speed, dates, and ice are in the remaining SQL docs. 
+And a further exploration of speed, gravity, and ice are in the remaining SQL docs. 
